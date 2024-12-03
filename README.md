@@ -21,3 +21,12 @@ All trading pairs listed here are accurate as of **December 3rd, 2024**, based o
 This project is licensed under the [Creative Commons Attribution 4.0 International License](LICENSE). You are free to share and adapt the material for any purpose, even commercially, as long as you provide appropriate credit.
 
 ## Repository Structure
+ - BTC_Pairings.txt
+ - USDT_Pairings.txt
+ - Combined_Pairings.txt
+ - LICENSE
+ - README.md
+
+---
+
+![License](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)
