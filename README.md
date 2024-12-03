@@ -8,9 +8,9 @@ Welcome to the **Kraken Trading Pairs Lists** repository! This repository contai
 
 ### **Contents:**
 
-- **BTC Pairings:** Trading pairs where **BTC** (Bitcoin) is the quote currency.
-- **USDT Pairings:** Trading pairs where **USDT** (Tether) is the quote currency.
-- **Combined BTC and USDT Pairings:** A comprehensive list combining both BTC and USDT pairings.
+- **Crypto pairings:** Trading pairs where **BTC** (Bitcoin) is the main quote currency.
+- **USDT pairings:** Trading pairs where **USDT** (Tether) is the main quote currency.
+- **Various combined pairings:** A comprehensive list combining both BTC, USDT and Fiat pairings.
 
 ## Data Source
 
@@ -26,7 +26,8 @@ This project is licensed under the [Creative Commons Attribution 4.0 Internation
 - **LICENSE**
 - **README.md**
 - **tv_BTC_Pairings.txt:** Contains all trading pairs with BTC as the quote currency.
-- **tv_Combined_Pairings.txt:** A merged list of both BTC and USDT trading pairs.
+- **tv_Combined_Crypto-Crypto_Pairings:** A merged list of both BTC and USDT trading pairs.
+- **tv_Combined_Crypto-Fiat_Pairings:** A merger list of Crypto and Fiat trading pairs.
 - **tv_USDT_Pairings.txt:** Contains all trading pairs with USDT as the quote currency.
 
 ## How to Use
